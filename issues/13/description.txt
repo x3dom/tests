@@ -1,0 +1,6 @@
+This tests demonstrates Issue 13
+================================
+https://github.com/x3dom/x3dom/issues/13
+
+Model courtesy by Steven Birr of the Liver Project
+http://radeberger.cs.uni-magdeburg.de/~sbirr/web3D/showcase/index.php
